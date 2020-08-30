@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Alustrat/Alustrat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<img src="https://media.giphy.com/media/bi6RQ5x3tqoSI/giphy.gif" width="100%">
+<!--<img src="https://media.giphy.com/media/MBlSpxW9dqsiV8Vg4y/source.gif" width="100%">-->
